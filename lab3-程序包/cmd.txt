@@ -1,0 +1,5 @@
+cat smoke_U202015507.txt|./hex2raw|./bufbomb -u U202015507
+cat fizz_U202015507.txt|./hex2raw|./bufbomb -u U202015507
+cat bang_U202015507.txt|./hex2raw|./bufbomb -u U202015507
+cat boom_U202015507.txt|./hex2raw|./bufbomb -u U202015507
+cat nitro_U202015507.txt|./hex2raw|./bufbomb -n -u U202015507
